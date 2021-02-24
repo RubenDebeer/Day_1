@@ -7,6 +7,6 @@ class Class_named
 
 {
     int age;
-    string Name;
+    String Name;
     
 }
