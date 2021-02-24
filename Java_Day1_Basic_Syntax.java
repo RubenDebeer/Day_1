@@ -1,10 +1,12 @@
 //Java Basics 
 // Day 1 
+// Day 2
 
 //Import The Scanner Class 
 import java.util.*;
 public class Java_Day1_Basic_Syntax {
    public static void main(String[] args) {
+    
 
 
     //Output and Inputs 
