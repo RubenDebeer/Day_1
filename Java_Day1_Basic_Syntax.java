@@ -1,4 +1,5 @@
 //Java Basics 
+// Day 1 
 
 //Import The Scanner Class 
 import java.util.*;
@@ -20,7 +21,6 @@ public class Java_Day1_Basic_Syntax {
 
     float MyFloat = Input.nextFloat();// Next float value 
     System.out.println("Yout entry float is: "+ MyFloat); 
-    
     
 
     //Variables 
